@@ -9,6 +9,7 @@ body {
   color: #000;
   text-align: center;
   margin-bottom: 30px;
+  display: -ms-flexbox;
   display: flex; }
 
 header {
@@ -27,4 +28,4 @@ header {
 .border {
   border-style: solid; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
